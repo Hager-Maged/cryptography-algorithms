@@ -4,9 +4,9 @@
 
 This repository contains implementations of three fundamental cryptographic algorithms:
 
-* 🔸 AES (Advanced Encryption Standard)
-* 🔸 DES (Data Encryption Standard)
-* 🔸 RSA (Rivest–Shamir–Adleman)
+*  AES (Advanced Encryption Standard)
+*  DES (Data Encryption Standard)
+*  RSA (Rivest–Shamir–Adleman)
 
 These implementations were developed to understand the internal structure and working principles of encryption techniques.
 
