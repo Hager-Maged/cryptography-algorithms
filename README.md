@@ -13,7 +13,7 @@ These implementations were developed to understand the internal structure and wo
 ---
 
 ##  Authors
-
+This project was developed by:
 * **Hager Maged**
 * **Ziad Mohamed**
 
